@@ -25,6 +25,10 @@ Pine64 GPIO library.  Please see the GPIO library source files for respective li
   * Find out how to allow clients such as KStars to dynamically load this driver as 
     it doesn't show up in the list currently
 
+## Configuring
+  * GPIO pin assignments made in gpiost4driver.h
+  * Need to specify 4 pins total (RA+/- and DEC+/-)   
+  * May need to review/modify the Pine64-specific pinout.h if using Raspberry Pi
 
 ## Building
 
