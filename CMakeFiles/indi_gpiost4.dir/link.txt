@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/indi_gpiost4.dir/gpio.o CMakeFiles/indi_gpiost4.dir/gpiost4.o CMakeFiles/indi_gpiost4.dir/gpiost4driver.o  -o indi_gpiost4 -rdynamic -lindidriver 
