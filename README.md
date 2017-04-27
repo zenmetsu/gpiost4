@@ -18,17 +18,17 @@ Pine64 GPIO library.  Please see the GPIO library source files for respective li
   * No way^H^H^Hneed to dynamically assign a tty
   * No way to dynamically assign GPIO pins
   * No Goto, just North, West, South, East
+  * Only works on Pine64 at the moment
 
 ## To Do
   * Add support for dynamic GPIO assignment
-  * Test on Raspberry Pi
+  * Add support for Raspberry Pi
   * Find out how to allow clients such as KStars to dynamically load this driver as 
     it doesn't show up in the list currently
 
 ## Configuring
   * GPIO pin assignments made in gpiost4driver.h
   * Need to specify 4 pins total (RA+/- and DEC+/-)   
-  * May need to review/modify the Pine64-specific pinout.h if using Raspberry Pi
 
 ## Building
 
