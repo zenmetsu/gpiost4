@@ -1,3 +1,0 @@
-/root/Projects/indi_gpiost4/CMakeFiles/rebuild_cache.dir
-/root/Projects/indi_gpiost4/CMakeFiles/edit_cache.dir
-/root/Projects/indi_gpiost4/CMakeFiles/indi_gpiost4.dir
